@@ -1,0 +1,11 @@
+/.cache
+/.work
+/_output
+cover.out
+/vendor
+
+# ignore GoLand files (debug config etc...)
+/.idea
+
+# ignore vscode files (debug config etc...)
+/.vscode
